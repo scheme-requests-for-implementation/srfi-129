@@ -6,6 +6,8 @@
 
 keywords: [[https://srfi.schemers.org/?keywords=internationalization][Internationalization]]
 
+library-name: titlecase
+
 This repository hosts [[https://srfi.schemers.org/srfi-129/][SRFI 129]]: Titlecase procedures, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /final/ status.
